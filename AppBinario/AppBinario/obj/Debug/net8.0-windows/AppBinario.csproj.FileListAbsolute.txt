@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\bin\Debug\net8.0-windows\AppBinario.exe
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\bin\Debug\net8.0-windows\AppBinario.deps.json
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\bin\Debug\net8.0-windows\AppBinario.runtimeconfig.json
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\bin\Debug\net8.0-windows\AppBinario.dll
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\bin\Debug\net8.0-windows\AppBinario.pdb
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.Form1.resources
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.AssemblyInfo.cs
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.dll
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\refint\AppBinario.dll
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.pdb
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\AppBinario.genruntimeconfig.cache
+C:\Users\pc\Desktop\4D CARLOS\AppBinario\AppBinario\obj\Debug\net8.0-windows\ref\AppBinario.dll
